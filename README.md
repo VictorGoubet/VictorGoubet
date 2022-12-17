@@ -9,7 +9,7 @@
 
 Implementation of a simplified version of the Mario Bros Game. Will be used as a first layer for a reinforcment learning AI in a futur repository
 <p align="center">
-	<a href="https://github.com/VictorGoubet/Mario"><img src="https://github.com/VictorGoubet/Mario/blob/master/screenshot.PNG?raw=true" width="400"></a>
+	<a href="https://github.com/VictorGoubet/Mario"><img src="https://github.com/VictorGoubet/Mario/blob/master/screenshot.PNG?raw=true" width="800"></a>
 </p>
 
 ## ▶️ [Connect Ultra](https://github.com/VictorGoubet/ConnectUltra)
