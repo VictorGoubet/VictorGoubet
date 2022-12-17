@@ -4,6 +4,14 @@
 <br><br>
 # 💡 Projects
 
+
+## ▶️ [Mario bros](https://github.com/VictorGoubet/Mario)
+
+Implementation of a simplified version of the Mario Bros Game. Will be used as a first layer for a reinforcment learning AI in a futur repository
+<p align="center">
+	<a href="https://github.com/VictorGoubet/Mario"><img src="https://github.com/VictorGoubet/Mario/blob/master/screenshot.PNG?raw=true" width="400"></a>
+</p>
+
 ## ▶️ [Connect Ultra](https://github.com/VictorGoubet/ConnectUltra)
 
 Implementation of an AI for the connect 4 game using min max algorithm, custom heursitic and alpha-beta pruning optimisation. 
