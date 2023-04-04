@@ -7,6 +7,15 @@
 # 💡 Projects
 
 
+
+## ▶️ [Live chat](https://github.com/VictorGoubet/LiveChat)
+
+Let's create an app we all use everyday: a simple live chat! How are the messages sent ? How do we login, and is it some way to securize our content ? Let's check it!
+<p align="center">
+	<a href="https://github.com/VictorGoubet/LiveChat"><img src="https://github.com/VictorGoubet/LiveChat/blob/master/screenshot.png?raw=true" height="300"></a>
+</p>
+
+
 ## ▶️ [Mario bros](https://github.com/VictorGoubet/Mario)
 
 Implementation of a simplified version of the Mario Bros Game. Will be used as a first layer for a reinforcment learning AI in a futur repository
