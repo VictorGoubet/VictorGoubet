@@ -8,6 +8,15 @@
 
 
 
+## ▶️ [OpenGL with Bubbly Dynamics](https://github.com/VictorGoubet/Bubble)
+
+Embark on a playful exploration of OpenGL and glumpy through a light-hearted bubble simulation. Visualize bubbles floating, colliding, and spontaneously splitting, in an experiment where graphics meet simplified physics.
+<p align="center">
+	<a href="https://github.com/VictorGoubet/Bubble"><img src="https://github.com/VictorGoubet/Bubble/blob/main/static/screenshot.png?raw=true" height="300"></a>
+</p>
+
+
+
 ## ▶️ [Live chat](https://github.com/VictorGoubet/LiveChat)
 
 Let's create an app we all use everyday: a simple live chat! How are the messages sent ? How do we login, and is it some way to securize our content ? Let's check it!
