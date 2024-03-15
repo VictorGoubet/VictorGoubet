@@ -1,13 +1,4 @@
 
-![background](background.png)
-<center><i>Generated with DALL.E2</i></center>
-
-
-<br><br>
-# 💡 Projects
-
-
-
 ## ▶️ [OpenGL with Bubbly Dynamics](https://github.com/VictorGoubet/Bubble)
 
 Embark on a playful exploration of OpenGL and glumpy through a light-hearted bubble simulation. Visualize bubbles floating, colliding, and spontaneously splitting, in an experiment where graphics meet simplified physics.
