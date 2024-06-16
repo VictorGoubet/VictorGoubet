@@ -1,4 +1,12 @@
 
+## ▶️ [TechSage](https://github.com/VictorGoubet/techsage)
+
+Leverage the power of multi-agent AI to fuel your daily tech, programming, and architecture insights.
+<p align="center">
+	<a href="https://github.com/VictorGoubet/techsage"><img src="https://github.com/VictorGoubet/techsage/raw/main/assets/app.png" height="300"></a>
+</p>
+
+
 ## ▶️ [OpenGL with Bubbly Dynamics](https://github.com/VictorGoubet/Bubble)
 
 Embark on a playful exploration of OpenGL and glumpy through a light-hearted bubble simulation. Visualize bubbles floating, colliding, and spontaneously splitting, in an experiment where graphics meet simplified physics.
