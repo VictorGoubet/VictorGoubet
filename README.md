@@ -10,8 +10,10 @@
 - 🎵 Passionate about music (guitar and piano) and sports (running)
 - 🌱 Always learning through personal projects and favorite content creators
 
- 📫 **Connect with me**
+<br>
 
+ ### 📫 Connect with me
+<br>
 
 <p>
 	<a href="https://github.com/VictorGoubet" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -20,118 +22,32 @@
 
 <br>
 
-### 🛠️ Some projects
+
+### 🛠️ Some Projects
 
 <br>
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://github.com/VictorGoubet/LiveChat" target="_blank" style="text-decoration: none;">
-        <img src="https://livechat.design/images/livechat/DIGITAL%20%28RGB%29/PNG/Stacked_RGB_Black.png" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">Live Chat</span>
-      </a>
-    </td>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://github.com/VictorGoubet/fungi" target="_blank" style="text-decoration: none;">
-        <img src="https://github.com/VictorGoubet/fungi/blob/main/assets/logo.png?raw=true" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">Fungi</span>
-      </a>
-    </td>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://github.com/VictorGoubet/techsage" target="_blank" style="text-decoration: none;">
-        <img src="https://github.com/VictorGoubet/techsage/raw/main/assets/logo.png" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">TechSage</span>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://github.com/VictorGoubet/Bubble" target="_blank" style="text-decoration: none;">
-        <img src="https://github.com/VictorGoubet/Bubble/blob/main/static/log.png?raw=true" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">OpenGL Bubbles</span>
-      </a>
-    </td>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://github.com/VictorGoubet/capitalquest" target="_blank" style="text-decoration: none;">
-        <img src="https://github.com/VictorGoubet/capitalquest/blob/main/assets/logo.png?raw=true" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">Capital Quest</span>
-      </a>
-    </td>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://github.com/VictorGoubet/Mario" target="_blank" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/fr/b/be/New_Super_Mario_Bros._Wii_Logo.png" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">Mario Bros</span>
-      </a>
-    </td>
-  </tr>
-</table>
+
+[![Fungi](https://images.weserv.nl/?url=https://github.com/VictorGoubet/fungi/blob/main/assets/logo.png?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/VictorGoubet/fungi) &nbsp;&nbsp;&nbsp;
+[![TechSage](https://images.weserv.nl/?url=https://github.com/VictorGoubet/techsage/raw/main/assets/logo.png&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/VictorGoubet/techsage) &nbsp;&nbsp;&nbsp;
+[![OpenGL Bubbles](https://images.weserv.nl/?url=https://github.com/VictorGoubet/Bubble/blob/main/static/log.png?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/VictorGoubet/Bubble) &nbsp;&nbsp;&nbsp;
+[![Capital Quest](https://images.weserv.nl/?url=https://github.com/VictorGoubet/capitalquest/blob/main/assets/logo.png?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/VictorGoubet/capitalquest) &nbsp;&nbsp;&nbsp;
+[![Live Chat](https://images.weserv.nl/?url=https://livechat.design/images/livechat/DIGITAL%20%28RGB%29/PNG/Stacked_RGB_White.png&h=50&fit=cover&maxage=7d&background=black)](https://github.com/VictorGoubet/LiveChat) &nbsp;&nbsp;&nbsp;
+[![Mario Bros](https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/fr/b/be/New_Super_Mario_Bros._Wii_Logo.png&h=50&fit=cover&maxage=7d)](https://github.com/VictorGoubet/Mario)
 
 <br>
 <br>
 
----
 
-### 💡 Some inspirations
+### 💡 My Inspirations
+
 <br>
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none;">
-        <img src="https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">3Blue1Brown</span>
-      </a>
-    </td>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://www.youtube.com/@Underscore_" target="_blank" style="text-decoration: none;">
-        <img src="https://yt3.googleusercontent.com/c9wuY-xQqBByos_Rvr8RkN68Pxv1kouzbHU_Yn73JDwaNdH0-vAY_eU9Kauuk9IQxIATDoII7w=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">Underscore</span>
-      </a>
-    </td>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://www.youtube.com/@Cocadmin" target="_blank" style="text-decoration: none;">
-        <img src="https://yt3.googleusercontent.com/8LhEPqp9FbMJtJNQXSUhJjGcb3LDV5yxh5bRuNncWljgAR_5mHb8nAzRPWsjvf_sz71_bwYk=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">Cocadmin</span>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://www.youtube.com/@SebastianLague" target="_blank" style="text-decoration: none;">
-        <img src="https://yt3.googleusercontent.com/ytc/AIdro_knyJw3jL_6AGomJmGe3VvfIYxWzZC9Y8z90Liru4G0UHM=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">Sebastian Lague</span>
-      </a>
-    </td>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://www.youtube.com/@TwoMinutePapers" target="_blank" style="text-decoration: none;">
-        <img src="https://yt3.googleusercontent.com/ytc/AIdro_ljAkSpv16cJNUsE_rI1X-Kz9s78w1WNojUga-aZ1uVzEQ=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">Two Minute Papers</span>
-      </a>
-    </td>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://www.youtube.com/@TheCodingTrain" target="_blank" style="text-decoration: none;">
-        <img src="https://yt3.googleusercontent.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">The Coding Train</span>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://www.youtube.com/@ScienceEtonnante" target="_blank" style="text-decoration: none;">
-        <img src="https://yt3.googleusercontent.com/ytc/AIdro_kzU96H3Lq6fihVVFNWXUEFaidERMvSqyMwn0f455Gi4w=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">Science Etonnante</span>
-      </a>
-    </td>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://www.youtube.com/@Computerphile" target="_blank" style="text-decoration: none;">
-        <img src="https://yt3.googleusercontent.com/tZI1Hqcjxhp39yZ8ZlWZgaDc1r5XxBE4f2wENq13R74tElv-Ra1cCTQ2CAcjRxk4db3Y2vBYIQ=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">Computerphile</span>
-      </a>
-    </td>
-    <td align="center" width="33.33%" style="border: none;">
-      <a href="https://www.youtube.com/@lexfridman" target="_blank" style="text-decoration: none;">
-        <img src="https://yt3.googleusercontent.com/ytc/AIdro_kSzDQxM_5VTZP_kapf1jJfzlHHJeECbFM9cx_dQ8guTAl-=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
-        <span style="color: white;">Lex Fridman</span>
-      </a>
-    </td>
-  </tr>
-</table>
+
+[![3Blue1Brown](https://images.weserv.nl/?url=https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s160-c-k-c0x00ffffff-no-rj&h=50&fit=cover&mask=circle&maxage=7d)](https://www.youtube.com/@3blue1brown) &nbsp;&nbsp;&nbsp;
+[![Underscore](https://images.weserv.nl/?url=https://yt3.googleusercontent.com/c9wuY-xQqBByos_Rvr8RkN68Pxv1kouzbHU_Yn73JDwaNdH0-vAY_eU9Kauuk9IQxIATDoII7w=s160-c-k-c0x00ffffff-no-rj&h=50&fit=cover&mask=circle&maxage=7d)](https://www.youtube.com/@Underscore_) &nbsp;&nbsp;&nbsp;
+[![Cocadmin](https://images.weserv.nl/?url=https://yt3.googleusercontent.com/8LhEPqp9FbMJtJNQXSUhJjGcb3LDV5yxh5bRuNncWljgAR_5mHb8nAzRPWsjvf_sz71_bwYk=s160-c-k-c0x00ffffff-no-rj&h=50&fit=cover&mask=circle&maxage=7d)](https://www.youtube.com/@Cocadmin) &nbsp;&nbsp;&nbsp;
+[![Sebastian Lague](https://images.weserv.nl/?url=https://yt3.googleusercontent.com/ytc/AIdro_knyJw3jL_6AGomJmGe3VvfIYxWzZC9Y8z90Liru4G0UHM=s160-c-k-c0x00ffffff-no-rj&h=50&fit=cover&mask=circle&maxage=7d)](https://www.youtube.com/@SebastianLague) &nbsp;&nbsp;&nbsp;
+[![Two Minute Papers](https://images.weserv.nl/?url=https://yt3.googleusercontent.com/ytc/AIdro_ljAkSpv16cJNUsE_rI1X-Kz9s78w1WNojUga-aZ1uVzEQ=s160-c-k-c0x00ffffff-no-rj&h=50&fit=cover&mask=circle&maxage=7d)](https://www.youtube.com/@TwoMinutePapers) &nbsp;&nbsp;&nbsp;
+[![The Coding Train](https://images.weserv.nl/?url=https://yt3.googleusercontent.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s160-c-k-c0x00ffffff-no-rj&h=50&fit=cover&mask=circle&maxage=7d)](https://www.youtube.com/@TheCodingTrain) &nbsp;&nbsp;&nbsp;
+[![Science Etonnante](https://images.weserv.nl/?url=https://yt3.googleusercontent.com/ytc/AIdro_kzU96H3Lq6fihVVFNWXUEFaidERMvSqyMwn0f455Gi4w=s160-c-k-c0x00ffffff-no-rj&h=50&fit=cover&mask=circle&maxage=7d)](https://www.youtube.com/@ScienceEtonnante) &nbsp;&nbsp;&nbsp;
+[![Computerphile](https://images.weserv.nl/?url=https://yt3.googleusercontent.com/tZI1Hqcjxhp39yZ8ZlWZgaDc1r5XxBE4f2wENq13R74tElv-Ra1cCTQ2CAcjRxk4db3Y2vBYIQ=s160-c-k-c0x00ffffff-no-rj&h=50&fit=cover&mask=circle&maxage=7d)](https://www.youtube.com/@Computerphile) &nbsp;&nbsp;&nbsp;
+[![Lex Fridman](https://images.weserv.nl/?url=https://yt3.googleusercontent.com/ytc/AIdro_kSzDQxM_5VTZP_kapf1jJfzlHHJeECbFM9cx_dQ8guTAl-=s160-c-k-c0x00ffffff-no-rj&h=50&fit=cover&mask=circle&maxage=7d)](https://www.youtube.com/@lexfridman)
