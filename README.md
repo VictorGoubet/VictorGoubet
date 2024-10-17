@@ -1,83 +1,137 @@
+<h2 align="center">👋 Hello! I'm Victor Goubet.</h2>
 
-## ▶️ [Capital Quest](https://github.com/VictorGoubet/capitalquest)
-
-Test your knowledge of world capitals with this interactive quiz game! Play and learn about geography in a fun and engaging way.
 <p align="center">
-	<a href="https://github.com/VictorGoubet/capitalquest"><img src="https://github.com/VictorGoubet/capitalquest/blob/main/assets/logo.png?raw=true" height="200"></a>
+    AWS Cloud Specialist | MLOps
 </p>
 
-## ▶️ [Fungi](https://github.com/VictorGoubet/fungi)
+- 🚀 Currently working on data quality products and AWS architecture deployment
+- 💻 Specialist in Python, Docker, AWS, CDK, and various Python modules
+- 🤖 Background in Machine Learning, Deep Learning, and basics of LLMs and agents
+- 🎵 Passionate about music (guitar and piano) and sports (running)
+- 🌱 Always learning through personal projects and favorite content creators
 
-Fungi is a simple P2P network library for connecting nodes in a decentralized manner. Nodes discover their public IP and port using STUN servers, facilitating direct connections.
-<p align="center">
-	<a href="https://github.com/VictorGoubet/fungi"><img src="https://github.com/VictorGoubet/fungi/blob/main/assets/logo.png?raw=true" height="200"></a>
-</p>
-
-## ▶️ [TechSage](https://github.com/VictorGoubet/techsage)
-
-Leverage the power of multi-agent AI to fuel your daily tech, programming, and architecture insights.
-<p align="center">
-	<a href="https://github.com/VictorGoubet/techsage"><img src="https://github.com/VictorGoubet/techsage/raw/main/assets/app.png" height="300"></a>
-</p>
+ 📫 **Connect with me**
 
 
-## ▶️ [OpenGL with Bubbly Dynamics](https://github.com/VictorGoubet/Bubble)
-
-Embark on a playful exploration of OpenGL and glumpy through a light-hearted bubble simulation. Visualize bubbles floating, colliding, and spontaneously splitting, in an experiment where graphics meet simplified physics.
-<p align="center">
-	<a href="https://github.com/VictorGoubet/Bubble"><img src="https://github.com/VictorGoubet/Bubble/blob/main/static/screenshot.png?raw=true" height="300"></a>
-</p>
-
-
-## ▶️ [Live Chat](https://github.com/VictorGoubet/LiveChat)
-
-Let's create an app we all use everyday: a simple live chat! How are the messages sent? How do we login, and is there some way to secure our content? Let's check it out!
-<p align="center">
-	<a href="https://github.com/VictorGoubet/LiveChat"><img src="https://github.com/VictorGoubet/LiveChat/blob/master/screenshot.png?raw=true" height="300"></a>
-</p>
-
-
-## ▶️ [Mario Bros](https://github.com/VictorGoubet/Mario)
-
-Implementation of a simplified version of the Mario Bros Game. Will be used as a first layer for a reinforcement learning AI in a future repository.
-<p align="center">
-	<a href="https://github.com/VictorGoubet/Mario"><img src="https://github.com/VictorGoubet/Mario/blob/master/screenshot.PNG?raw=true" height="300"></a>
-</p>
-
-## ▶️ [Game of Life](https://github.com/VictorGoubet/GameOfLife)
-
-Simulation of Conway's Game of Life using Python and Tkinter. How can cells evolve following only 3 simple rules? Let's check!
-<p align="center">
-	<a href="https://github.com/VictorGoubet/GameOfLife"><img src="https://github.com/VictorGoubet/GameOfLife/blob/ad9e31051fbca4fe8eb4bbfd77ac7b96660281ed/screenshot.PNG?raw=true" height="300"></a>
-</p>
-
-## ▶️ [Connect Ultra](https://github.com/VictorGoubet/ConnectUltra)
-
-Implementation of an AI for the Connect 4 game using min-max algorithm, custom heuristic, and alpha-beta pruning optimization. 
-<p align="center">
-	<a href="https://github.com/VictorGoubet/ConnectUltra"><img src="https://github.com/VictorGoubet/ConnectUltra/blob/bd0373fdc1283ea86cace4fd3cf5a8175530404c/screenshot.PNG?raw=true" height="300"></a>
-</p>
-
-
-## ▶️ [StarCraft Oracle](https://github.com/VictorGoubet/StarCraftOracle)
-
-Exploration of the SkillCraft dataset extracted from StarCraft II players and creation of a model predicting the league of a player.
-<p align="center">
-	<a href="https://github.com/VictorGoubet/StarCraftOracle"><img src="https://github.com/VictorGoubet/StarCraftOracle/blob/master/screenshot.PNG?raw=true" height="300"></a>
+<p>
+	<a href="https://github.com/VictorGoubet" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+	<a href="https://www.linkedin.com/in/victorgoubet/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <br>
 
+### 🛠️ Some projects
 
-# ✉️ Contact
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/victorgoubet/">
-		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-	<a href="mailto:victorgoubet@orange.fr">
-		<img src="https://img.shields.io/badge/MAIL-SEND-white?style=for-the-badge&logo=Mailgun">
-	</a>
-</p>
 <br>
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://github.com/VictorGoubet/LiveChat" target="_blank" style="text-decoration: none;">
+        <img src="https://livechat.design/images/livechat/DIGITAL%20%28RGB%29/PNG/Stacked_RGB_Black.png" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">Live Chat</span>
+      </a>
+    </td>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://github.com/VictorGoubet/fungi" target="_blank" style="text-decoration: none;">
+        <img src="https://github.com/VictorGoubet/fungi/blob/main/assets/logo.png?raw=true" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">Fungi</span>
+      </a>
+    </td>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://github.com/VictorGoubet/techsage" target="_blank" style="text-decoration: none;">
+        <img src="https://github.com/VictorGoubet/techsage/raw/main/assets/logo.png" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">TechSage</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://github.com/VictorGoubet/Bubble" target="_blank" style="text-decoration: none;">
+        <img src="https://github.com/VictorGoubet/Bubble/blob/main/static/log.png?raw=true" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">OpenGL Bubbles</span>
+      </a>
+    </td>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://github.com/VictorGoubet/capitalquest" target="_blank" style="text-decoration: none;">
+        <img src="https://github.com/VictorGoubet/capitalquest/blob/main/assets/logo.png?raw=true" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">Capital Quest</span>
+      </a>
+    </td>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://github.com/VictorGoubet/Mario" target="_blank" style="text-decoration: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/fr/b/be/New_Super_Mario_Bros._Wii_Logo.png" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">Mario Bros</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+---
+
+### 💡 Some inspirations
+<br>
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://www.youtube.com/@3blue1brown" target="_blank" style="text-decoration: none;">
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">3Blue1Brown</span>
+      </a>
+    </td>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://www.youtube.com/@Underscore_" target="_blank" style="text-decoration: none;">
+        <img src="https://yt3.googleusercontent.com/c9wuY-xQqBByos_Rvr8RkN68Pxv1kouzbHU_Yn73JDwaNdH0-vAY_eU9Kauuk9IQxIATDoII7w=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">Underscore</span>
+      </a>
+    </td>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://www.youtube.com/@Cocadmin" target="_blank" style="text-decoration: none;">
+        <img src="https://yt3.googleusercontent.com/8LhEPqp9FbMJtJNQXSUhJjGcb3LDV5yxh5bRuNncWljgAR_5mHb8nAzRPWsjvf_sz71_bwYk=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">Cocadmin</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://www.youtube.com/@SebastianLague" target="_blank" style="text-decoration: none;">
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_knyJw3jL_6AGomJmGe3VvfIYxWzZC9Y8z90Liru4G0UHM=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">Sebastian Lague</span>
+      </a>
+    </td>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://www.youtube.com/@TwoMinutePapers" target="_blank" style="text-decoration: none;">
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_ljAkSpv16cJNUsE_rI1X-Kz9s78w1WNojUga-aZ1uVzEQ=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">Two Minute Papers</span>
+      </a>
+    </td>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://www.youtube.com/@TheCodingTrain" target="_blank" style="text-decoration: none;">
+        <img src="https://yt3.googleusercontent.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">The Coding Train</span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://www.youtube.com/@ScienceEtonnante" target="_blank" style="text-decoration: none;">
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_kzU96H3Lq6fihVVFNWXUEFaidERMvSqyMwn0f455Gi4w=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">Science Etonnante</span>
+      </a>
+    </td>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://www.youtube.com/@Computerphile" target="_blank" style="text-decoration: none;">
+        <img src="https://yt3.googleusercontent.com/tZI1Hqcjxhp39yZ8ZlWZgaDc1r5XxBE4f2wENq13R74tElv-Ra1cCTQ2CAcjRxk4db3Y2vBYIQ=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">Computerphile</span>
+      </a>
+    </td>
+    <td align="center" width="33.33%" style="border: none;">
+      <a href="https://www.youtube.com/@lexfridman" target="_blank" style="text-decoration: none;">
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_kSzDQxM_5VTZP_kapf1jJfzlHHJeECbFM9cx_dQ8guTAl-=s160-c-k-c0x00ffffff-no-rj" width="100" style="border-radius: 50%;"><br>
+        <span style="color: white;">Lex Fridman</span>
+      </a>
+    </td>
+  </tr>
+</table>
