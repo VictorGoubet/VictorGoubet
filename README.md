@@ -27,7 +27,7 @@
 
 <br>
 
-[![Mush](https://images.weserv.nl/?url=https://github.com/myceliumAI/mush/blob/main/static/mush.png?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/myceliumAI/mycelium) &nbsp;&nbsp;&nbsp;
+[![Mush](https://images.weserv.nl/?url=https://github.com/myceliumAI/mush/blob/main/static/mush.png?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/myceliumAI/mush) &nbsp;&nbsp;&nbsp;
 [![Mycelium](https://images.weserv.nl/?url=https://github.com/myceliumAI/mycelium/blob/main/mycelium/public/logo.png?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/myceliumAI/mycelium) &nbsp;&nbsp;&nbsp;
 [![Fungi](https://images.weserv.nl/?url=https://github.com/VictorGoubet/fungi/blob/main/assets/logo.png?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/VictorGoubet/fungi) &nbsp;&nbsp;&nbsp;
 [![Game Of Life](https://images.weserv.nl/?url=https://camo.githubusercontent.com/2e8169cf8e9e5f57642bbbd455eef3a503ed197885d30f48b626ba1a48dfb9a3/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763527134667a6e4346742d30534832354d3956426e623944465f525852473479396158305f4a357463583464347846734751766d454542725677317a45504e7735417879566726757371703d434155?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/VictorGoubet/GameOfLife) &nbsp;&nbsp;&nbsp;
