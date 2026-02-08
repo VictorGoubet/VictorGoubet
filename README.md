@@ -1,8 +1,6 @@
 
 ### Some Projects
 
-<br>
-
 [![Mush](https://images.weserv.nl/?url=https://github.com/myceliumAI/mush/blob/main/static/mush.png?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/myceliumAI/mush) &nbsp;&nbsp;&nbsp;
 [![Mycelium](https://images.weserv.nl/?url=https://github.com/myceliumAI/mycelium/blob/main/mycelium/public/logo.png?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/myceliumAI/mycelium) &nbsp;&nbsp;&nbsp;
 [![Fungi](https://images.weserv.nl/?url=https://github.com/VictorGoubet/fungi/blob/main/assets/logo.png?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/VictorGoubet/fungi) &nbsp;&nbsp;&nbsp;
@@ -13,13 +11,9 @@
 [![Capital Quest](https://images.weserv.nl/?url=https://github.com/VictorGoubet/capitalquest/blob/main/assets/logo.png?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/VictorGoubet/capitalquest) &nbsp;&nbsp;&nbsp;
 [![Connect Ultra](https://images.weserv.nl/?url=https://github.com/VictorGoubet/ConnectUltra/blob/master/screenshot.PNG?raw=true&h=50&fit=cover&mask=circle&maxage=7d)](https://github.com/VictorGoubet/ConnectUltra) &nbsp;&nbsp;&nbsp;
 
-<br>
-<br>
-
 
 ### Some Inspirations
 
-<br>
 
 <a href="https://www.youtube.com/@3blue1brown"><img src="https://unavatar.io/youtube/3blue1brown" alt="3Blue1Brown" width="32" height="32"/></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@Underscore_"><img src="https://unavatar.io/youtube/Underscore_" alt="Underscore" width="32" height="32"/></a> &nbsp;&nbsp;&nbsp;
